@@ -47,7 +47,6 @@ void process_input(int n) {
     cout<<"returning control flow to caller\n";
 }
 
-
 int main() {
     int n;
     cin >> n;
