@@ -1,4 +1,6 @@
 /*
+Hotel Prices
+
 In this challenge, the task is to debug the existing code to successfully execute all provided test files.
 Input Format
 The input is read by the provided locked code template. In the first line, there is a single integer n denoting the number of rooms booked for today. After that n lines follow. Each of these lines begins with a room_type which is either standard or apartment, and is followed by the number of bedrooms and the number of bathrooms in this room.
