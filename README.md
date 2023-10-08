@@ -1,4 +1,4 @@
-<img width="1283" alt="image" src="https://github.com/24Akshat/MSC-30-Day/assets/133196136/6cc680a8-f6e5-4796-b445-87840df68268"># MSC-30-Day
+# MSC-30-Day
 30 Day Challenge
 It is a 30 day challenge in which I will be solving 30 problems in 30 days from HackerRank<br>
 i.e. from September 25, 2023 to October 25, 2023.<br>
